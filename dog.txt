@@ -8,3 +8,6 @@ resolved conflict before merge
 trying another branching in dog...
 
 Hello from LearningGitCopy!!!!
+
+first edit from COPY!
+
