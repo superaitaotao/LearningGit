@@ -8,3 +8,5 @@ resolved conflict before merge
 trying another branching in dog...
 
 Hello from LearningGitCopy!!!!
+
+editing before mergin origin/animal
