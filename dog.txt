@@ -9,6 +9,14 @@ resolved conflict before merge
 before merging in dog.txt
 =======
 trying another branching in dog...
+<<<<<<< HEAD
 >>>>>>> animal
 
 hehe
+=======
+
+Hello from LearningGitCopy!!!!
+
+merged with origin/animal
+
+merged with animal
