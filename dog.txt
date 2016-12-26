@@ -4,3 +4,5 @@ edited dog before merging in master
 a dog has 4 legs
 
 resolved conflict before merge
+
+trying another branching in dog...
