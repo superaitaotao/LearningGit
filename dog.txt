@@ -6,3 +6,5 @@ a dog has 4 legs
 resolved conflict before merge
 
 trying another branching in dog...
+
+Hello from LearningGitCopy!!!!
