@@ -5,4 +5,10 @@ a dog has 4 legs
 
 resolved conflict before merge
 
+<<<<<<< HEAD
 before merging in dog.txt
+=======
+trying another branching in dog...
+>>>>>>> animal
+
+hehe
